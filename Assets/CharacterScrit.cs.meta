@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fa5a08fab608e7541b115241ace37020
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - score: {instanceID: 0}
+  - itemSFX: {fileID: 8300000, guid: 808b1c1bb474b2e4e81f482b61c5af1f, type: 3}
+  - shieldSFX: {fileID: 8300000, guid: 7da886a070ddeee4ba6bc0fd415e462c, type: 3}
+  - obstacleSFX: {fileID: 8300000, guid: 8e9dd5fb3ef29224cab17c250e8b04f9, type: 3}
+  - destroySFX: {fileID: 8300000, guid: bfa45bd8a782ea341bba179e1b55f340, type: 3}
+  - sound: {instanceID: 0}
+  - music: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
